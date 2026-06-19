@@ -1,0 +1,23 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Secrets / local config
+.env
+.env.sample
+*.local
+
+# Logs / temp
+*.log
+_pip_install.log
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/

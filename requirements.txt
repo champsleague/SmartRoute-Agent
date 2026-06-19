@@ -1,0 +1,7 @@
+# SmartRoute (Python / Microsoft Agent Framework)
+# 설치: pip install -r requirements.txt --pre
+# (agent-framework 메타 패키지가 foundry/openai/orchestrations/azure 등 하위 패키지를 함께 설치)
+
+agent-framework==1.9.0
+httpx==0.28.1
+python-dotenv
