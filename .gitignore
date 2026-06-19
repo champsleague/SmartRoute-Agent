@@ -21,3 +21,7 @@ _pip_install.log
 .DS_Store
 .idea/
 .vscode/
+
+# Chainlit 자동 생성 번역(런타임 재생성) — config.toml 만 추적
+.chainlit/translations/
+.files/
