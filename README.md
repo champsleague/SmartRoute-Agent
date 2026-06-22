@@ -1,4 +1,4 @@
-# SmartRoute 🚗 — 서울 실시간 "주차 우선" 길 안내 AI 에이전트
+# SmartRoute 🚗 서울 실시간 "주차 우선" 길 안내 AI 에이전트
 
 > 목적지를 말하면 **주차 자리를 먼저 확보하고, 그 주차장까지 가는 접근 경로**를 한 번에 안내하는 멀티에이전트 서비스.
 > Microsoft Agent Framework(Python) + Azure OpenAI + 서울 실시간 도시데이터로 구현.
