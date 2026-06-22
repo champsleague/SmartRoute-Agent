@@ -117,4 +117,4 @@ AZURE_OPENAI_DEPLOYMENT=gpt-4o-mini     # Azure OpenAI 배포 이름
 
 ---
 
-*Microsoft Agent Framework 해커톤 (GitHub Copilot & MAF) 출품작  (1위)*
+🏆 **Microsoft Agent Framework 해커톤 (GitHub Copilot & MAF) 🥇 1위 수상작.**
